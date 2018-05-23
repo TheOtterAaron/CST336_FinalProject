@@ -1,0 +1,1 @@
+Please note that some elements of the schema were changed via phpMyAdmin after executing the SQL included here.
